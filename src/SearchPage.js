@@ -96,6 +96,3 @@ function SearchPage() {
 }
 
 export default SearchPage;
-
-// AIzaSyD4-0mWQSn4zPMa1RARP1G-cmkfOE3BC68
-// 75089bfa414650e57
