@@ -19,6 +19,6 @@ const useGoogleSearch = (term) => {
     fetchData()
   }, [term]);
   return{ data }
-};
+}; 
 
 export default useGoogleSearch;
