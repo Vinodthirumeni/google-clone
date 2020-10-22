@@ -67,15 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-
-
-
-
-
-
-
-
 PROJECT NAME : Google Clone
 
 TOOLS USED : ReactJs,Material UI,Firebase,Context API,React Router DOM
@@ -93,6 +84,7 @@ go to google developer console an grab the google API
 -> create with necessary domain -> Edit search engine -> grab search engine ID and -> toggle on(search entire web)
 
 3rd PARTY PLUGIN
+
 	Install Material UI(For icons and components)
 		npm install @material-ui/core
 		npm install @material-ui/icons
@@ -113,4 +105,6 @@ DATABASE & DEPLOYMENT
 	> firebase deploy
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
+
+Live Link : https://clone-f6873.web.app/about
 
